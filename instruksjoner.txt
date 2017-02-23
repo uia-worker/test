@@ -1,0 +1,2 @@
+Utvikler modus aktiveres i Oppdatering og Sikkerhet -> for utviklere (utvikler modus)
+
