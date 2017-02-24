@@ -5,6 +5,15 @@ Så kan man søke etter "Activate and Deactivate Windows functions"
 Der må man finne noe som har med "Windows Subsystem for Linux" å gjøre (vises kun for spesielle build-versjoner)
 Så kan man starte bash i Windows sin kommandolinje og ha en Ubuntu Linux distribusjon til disposisjon
 Da kan man både installere git og golang i dette miljøet, samt bruke ssh-keygen og ssh, REGNER JEG MED (får ikke testet det siden min build-versjon er ikke høy nok; jeg skal prøve å finne ut, hvordan jeg kan oppdatere den)
+Referanse: https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
+
+
+C:\Program Files\Git
+Se screenshots (bør diskuteres)
+Bruker mingw64 biblioteker
+
+git config --global user.name "<navn>"
+git config --global user.email "<epost_adresse_som_er_assosiert_med_github_konto>"
 
 
 
