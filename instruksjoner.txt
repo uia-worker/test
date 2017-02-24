@@ -1,2 +1,10 @@
+I min (UiAs) versjon av Windows 10 Enterprise er build-versjon av kjerne for lav (10***) for å installere WSL
+Trenger build-versjon av kjerne over 143***
 Utvikler modus aktiveres i Oppdatering og Sikkerhet -> for utviklere (utvikler modus)
+Så kan man søke etter "Activate and Deactivate Windows functions" 
+Der må man finne noe som har med "Windows Subsystem for Linux" å gjøre (vises kun for spesielle build-versjoner)
+Så kan man starte bash i Windows sin kommandolinje og ha en Ubuntu Linux distribusjon til disposisjon
+Da kan man både installere git og golang i dette miljøet, samt bruke ssh-keygen og ssh, REGNER JEG MED (får ikke testet det siden min build-versjon er ikke høy nok; jeg skal prøve å finne ut, hvordan jeg kan oppdatere den)
+
+
 
