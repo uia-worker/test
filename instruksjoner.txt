@@ -15,5 +15,6 @@ Bruker mingw64 biblioteker
 git config --global user.name "<navn>"
 git config --global user.email "<epost_adresse_som_er_assosiert_med_github_konto>"
 
-
-
+https://atom.io/
+https://golang.org/doc/install?download=go1.8.windows-amd64.msi
+http://www.thomasmaurer.ch/2016/04/using-ssh-with-powershell/
